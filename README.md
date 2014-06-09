@@ -1,3 +1,9 @@
+## USE THIS FORK AT YOUR OWN RISK!!
+
+It's essentially a playground for messing about with some concepts I'm pursuing in a project - code is specific to my setup and things are likely to be in a broken state most of the time.
+
+
+
 # jsdom
 
 A JavaScript implementation of the W3C DOM.
